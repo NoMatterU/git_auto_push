@@ -10,4 +10,4 @@
 * push_branch: + 需要push的分支名
 * exclude_dir: + 需要排除的文件夹名
 
-___Windows下必须安装Git
+__Windows下必须安装Git__
